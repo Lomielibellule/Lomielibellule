@@ -1,0 +1,40 @@
+.persocolor {
+    color: #f5c2c7 !important;
+}
+
+.cellobackground {
+    min-height: 30rem;
+    position: relative;
+    display: table;
+    width: 100%;
+    height: auto;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/cello/DSC_0156.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.orderedlist {
+    min-height: 30rem;
+    display: table;
+    width: 100%;
+    height: auto;
+    background-image: url(../assets/img/officials/20240622_170326.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+
+.fontcolor {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.anchor-link{
+    color:#f5c2c7;
+    text-decoration: none;
+}
+  
+.anchor-link:hover{
+    color:#055160;
+}
